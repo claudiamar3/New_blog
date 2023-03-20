@@ -1,0 +1,6 @@
+mi primer proyecto en GIT
+Y mi primera vez en visual code
+ mi segunda vez programando 
+ y usando un versionador de codigo
+necesito cerrar bien este proyecto
+ 
