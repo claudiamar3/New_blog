@@ -3,4 +3,7 @@ Y mi primera vez en visual code
  mi segunda vez programando 
  y usando un versionador de codigo
 necesito cerrar bien este proyecto
+
+hoy hablaremos de la segunda clase
+
  
